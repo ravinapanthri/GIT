@@ -1,2 +1,3 @@
 # GIT
-My Test Repo
+My Test Repository.
+This is my first commit
